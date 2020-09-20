@@ -1,8 +1,11 @@
 # Hi, my name is Inga Chubareva.
 
 **Tel: +375(44)746-42-24**
+
 **E-mail: ingach23@gmail.com**
+
 **Telegram: @Chubareva_Inga**
+
 **Linkedin: Inga Chubareva**
 
 ### EDUCATION
