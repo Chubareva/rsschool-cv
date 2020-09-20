@@ -1,13 +1,13 @@
-**# Hi, my name is Inga Chubareva.**
+# Hi, my name is Inga Chubareva.
 
 **Tel: +375(44)746-42-24
 E-mail: ingach23@gmail.com
 Telegram: @Chubareva_Inga
 Linkedin: Inga Chubareva**
 
-**### EDUCATION** 
-#####Sep 2006 - June 2017   GYMNASIUM №6 (Profile: Physics and Mathematics)
-#####Sep 2017 - June 2021   STUDENT, 4RD YEAR
+### EDUCATION
+##### Sep 2006 - June 2017   GYMNASIUM №6 (Profile: Physics and Mathematics)
+##### Sep 2017 - June 2021   STUDENT, 4RD YEAR
                             Specialty: Mathematics and Information Technologies
                             Direction: Web-Programming and Internet Technologies
                             Qualification: Mathematician. IT-specialist
@@ -16,7 +16,7 @@ Linkedin: Inga Chubareva**
 ##### ENGLISH LEVEL
 Intermediate. Good understanding of speech. I can speak on general topics and read specialize leterature.
 
-**### TECHNOLOGY STACK**
+### TECHNOLOGY STACK
 SALESFORCE / Beginner Level / VRP consulting courses, self-taught
 HTML, CSS / Medium Level / BSU, laboratory works, self-taught
 С++ / Medium Level / BSU, laboratory work, self-taught
@@ -25,7 +25,7 @@ JS / Medium Level / BSU, laboratory work, self-taught
 SQL / Beginner Level / Epam lab, BSU
 
 
-**### SOME PROJECTS**
+### SOME PROJECTS
 #### C++
 Laboratory works on the subject "Algorithms"
 https://github.com/Chubareva/algorithms
