@@ -1,9 +1,9 @@
 # Hi, my name is Inga Chubareva.
 
-**Tel: +375(44)746-42-24
-E-mail: ingach23@gmail.com
-Telegram: @Chubareva_Inga
-Linkedin: Inga Chubareva**
+**Tel: +375(44)746-42-24**
+**E-mail: ingach23@gmail.com**
+**Telegram: @Chubareva_Inga**
+**Linkedin: Inga Chubareva**
 
 ### EDUCATION
 ##### Sep 2006 - June 2017   GYMNASIUM №6 (Profile: Physics and Mathematics)
